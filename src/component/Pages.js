@@ -56,54 +56,7 @@ export default function Pages() {
                 <Col md='3'></Col>
               </Row>
             </Form>
-
-     
-
-
-
-
-
-
-
-
-<Form>
-  <Row>
-    <Col>
-      <Form.Control placeholder=" Generrer VID" />
-    </Col>
-    <Col>
-      <Form.Control placeholder="Annuler" />
-    </Col>
-  </Row>
-</Form>
-
-
-
-  
-
-
-
-
-
-
-  
-<Form>
-  <Row>
-    <Col>
-      <Form.Control placeholder=" Identite virtuelle  generee   GH542157524" />
-    </Col>
-
-  </Row>
-</Form>
-
-
-
-
-
-
-
-
-</div>
+          </div>
         </div>
     )
 }
