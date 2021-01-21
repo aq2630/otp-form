@@ -5,7 +5,7 @@ import Pages from "./component/Pages"
 function App() {
   return (
     <div className="App"> 
-      <h1>cca hshsdh sdhh</h1>
+      <h1 className='text-center'>cca hshsdh sdhh</h1>
       <Pages/>
     </div>
   );
